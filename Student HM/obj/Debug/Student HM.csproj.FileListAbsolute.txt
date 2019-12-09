@@ -1,0 +1,6 @@
+C:\Users\Dex\source\repos\Student HM\Student HM\bin\Debug\Student HM.exe.config
+C:\Users\Dex\source\repos\Student HM\Student HM\bin\Debug\Student HM.exe
+C:\Users\Dex\source\repos\Student HM\Student HM\bin\Debug\Student HM.pdb
+C:\Users\Dex\source\repos\Student HM\Student HM\obj\Debug\Student HM.csprojAssemblyReference.cache
+C:\Users\Dex\source\repos\Student HM\Student HM\obj\Debug\Student HM.exe
+C:\Users\Dex\source\repos\Student HM\Student HM\obj\Debug\Student HM.pdb
